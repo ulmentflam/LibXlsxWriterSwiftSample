@@ -8,5 +8,5 @@ target 'LibXlsxWriterSwiftSample' do
   # Pods for LibXlsxWriterSwiftSample
   pod 'libxlsxwriter', '~> 0.9'
   pod 'Sourceful', '~> 0.2' #Only present for synzax highlighting
-  
+  pod 'BoringSSL-GRPC'
 end
